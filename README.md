@@ -10,7 +10,7 @@ I'm Oskar Gmerek, a passionate programmer with a strong interest in frontend dev
 
 - 🖥️ Software Engineering (Fundamentals) by HyperionDev [In Progress]
   - Actively participating, developing, and validating my skills
-  - Check out my progress: [Portfolio](https://www.hyperiondev.com/portfolio/135562/)
+  - Check out my progress: [Bootcamp Portfolio](https://www.hyperiondev.com/portfolio/135562/)
   - Aiming to complete the program with a certificate
 - 🌐 LinkedIn Learning
   - Participated in various courses and earned certificates to confirm my acquired skills
