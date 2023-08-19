@@ -43,6 +43,6 @@ I'm Oskar Gmerek, a passionate programmer with a strong interest in frontend dev
 
 
 ## 📊 My GitHub Stats
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=oskar-gmerek)](https://github.com/LordDashMe/github-contribution-stats/)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=oskar-gmerek&show_icons=true&theme=radical)
 
